@@ -1,0 +1,41 @@
+.contenedor-carrusel {
+    margin-top: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+footer {
+    background-color:#242321;
+    
+}
+    
+.footer-1 {
+        
+        font-style: italic;
+        font-size: 50px;
+        margin-top: 15%;
+    }
+
+.footer-2 {
+       
+        font-style: italic;
+        font-size: 30px;
+    }
+
+
+.lorem {
+    font-size: 30px;
+    display: flex;
+    padding: 10px;
+    border: solid beige 2px;
+    margin-top: 20px;
+}
+
+.lorem-2 {
+    font-size: 30px;
+    display: flex;
+    padding: 10px;
+    border: solid rgb(232, 86, 60) 2px;
+    margin-top: 20px;
+
+}
